@@ -1,4 +1,5 @@
-hola este es mi proyecto de informatica 
+
+
 
 👋 Hola soy @JOElGUANGA
 👀 Me interesa la programacion
